@@ -1,9 +1,0 @@
-| Criteria                    | Private Cloud                                 | Public Cloud                                                       | Hybrid Cloud                                                                      |
-| --------------------------- | --------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| **Location of Resources**   | Company-owned data center                     | Microsoft Azure data centers                                       | Combination of on-premises and Azure                                              |
-| **Operation & Maintenance** | Company IT department                         | Microsoft                                                          | Shared responsibility between company and Microsoft                               |
-| **Scalability**             | Limited by available hardware                 | Highly scalable on demand                                          | Flexible; cloud resources extend local infrastructure                             |
-| **Security & Compliance**   | Full control over security policies           | Microsoft provides security features and compliance certifications | Sensitive data stays on-premises while cloud security services enhance protection |
-| **Cost**                    | High upfront investment and maintenance costs | Pay-as-you-go pricing                                              | Balanced investment with flexible cloud costs                                     |
-| **Typical Use Cases**       | Government, banking, healthcare               | Web applications, development, backup                              | Companies migrating gradually to the cloud                                        |
-
